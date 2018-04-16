@@ -61,7 +61,7 @@ How to deploy on local machine.
 How to use.
 
 ```
-Fill out survey to find most compatble friend.
+Fill out survey to find most compatible friend.
 ```
 
 ### Built with
@@ -78,7 +78,7 @@ Fill out survey to find most compatble friend.
 
 * Body-Parser
 
-* Pathk
+* Path
 
 ### Authors
 
